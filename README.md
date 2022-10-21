@@ -4,7 +4,7 @@
 ![Pyhton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<img align="left" width="350" height="350" src="pikachu2.gif">
+<img align="left" width="300" height="300" src="pikachu2.gif">
 
 [![alfgarci's 42 stats](https://badge42.vercel.app/api/v2/cl9hqwfib00250gl300lj938c/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
