@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I´m Alfonso García 👋
 
-<!--
-**alfgarci/alfgarci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Pyhton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-Here are some ideas to get you started:
+[![alfgarci's 42 stats](https://badge42.vercel.app/api/v2/cl9hqwfib00250gl300lj938c/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](pikachu.gif)
+
+- 🌱 I'm currently learning C at 42 Madrid, and Artificial intelligence and Computing at the University of Huelva.
+- 🧐 Interested in Artificial Intelligence, Data Science and anything that has to do with programming.
+
