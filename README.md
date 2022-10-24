@@ -8,6 +8,5 @@
 
 [![alfgarci's 42 stats](https://badge42.vercel.app/api/v2/cl9hqwfib00250gl300lj938c/stats?cursusId=21&coalitionId=undefined)](https://profile.intra.42.fr/users/alfgarci)
 
-- 🌱 I'm currently learning C at 42 Madrid, and Artificial intelligence and Computing at the University of Huelva.
+- 🌱 I'm currently learning C at 42 Madrid, and Computing with Artificial intelligence at the University of Huelva.
 - 🧐 Interested in Artificial Intelligence, Data Science and anything that has to do with programming.
-
