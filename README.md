@@ -6,7 +6,7 @@
 
 <img align="left" width="300" height="300" src="pikachu2.gif">
 
-[![alfgarci's 42 stats](https://badge42.vercel.app/api/v2/cl9hqwfib00250gl300lj938c/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+[![alfgarci's 42 stats](https://badge42.vercel.app/api/v2/cl9hqwfib00250gl300lj938c/stats?cursusId=21&coalitionId=undefined)](https://profile.intra.42.fr/users/alfgarci)
 
 - 🌱 I'm currently learning how to dance at Julia Academy, and Cooking with my grandma.
 - 🧐 Interested in walk in the beach, i like travel and discovre miself.
