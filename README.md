@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,50,34,5,30&height=250&section=header&text=Hi%20there,%20I´m%20Alfonso%20García%20👋&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,50,34,5,70&height=250&section=header&text=Hi%20there,%20I´m%20Alfonso%20García%20👋&fontSize=50)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Pyhton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
