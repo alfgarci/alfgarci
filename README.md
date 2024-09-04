@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" width="300" height="300" src="pikachu2.gif">
+<img align="right" width="200" height="200" src="pikachu2.gif">
 
 ## 📚 Current Learning
 
